@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Modestino Carbone
 
-Welcome to my GitHub profile! I'm a Young electronic engineering student with a fascination for coding and 
+Welcome to my GitHub profile! I'm a Young electronic engineering student with a fascination for coding and science
 
 ---
 
