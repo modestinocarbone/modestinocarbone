@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Modestino Carbone
+# 👋 Hello! I'm Modestino
 
 Welcome to my GitHub profile! I'm a Young electronic engineering student with a fascination for coding and science
 
