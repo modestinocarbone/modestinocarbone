@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a Young electronic engineering student with a 
 
 ## 🛠️ My Toolbox
 
-- **Languages**: Python, Processing, VHDL
+- **Languages**: Python, Processing, VHDL, C
 - **Tools**: Spyder, Modelsim, Processing, P5.js
 - **Interests**: Open Source, Fourier Analysis, Math, Music
 
