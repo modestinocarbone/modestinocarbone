@@ -1,6 +1,10 @@
 # 👋 Hello! I'm Modestino
 
-Welcome to my GitHub profile! I'm a Young electronic engineering with a fascination for coding and science
+Welcome to my GitHub profile! I'm Modestino Carbone.
+- Master's degree in Electronic Engineering
+- Amateur coder
+- Guitarist
+- Electronics enthusiast
 
 ---
 
