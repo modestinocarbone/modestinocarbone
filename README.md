@@ -1,4 +1,5 @@
-# 👋 Hello! I'm Modestino
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Modestino%20Carbone%20👋&fontSize=40&fontAlignY=35)
+
 
 Welcome to my GitHub profile! I'm Modestino Carbone.
 - Master's degree in Electronic Engineering
@@ -8,7 +9,7 @@ Welcome to my GitHub profile! I'm Modestino Carbone.
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xmc3FlcHJ2eHZwNWdwZjNlZGU5anN2Zm9mcG8zNmlxOWJ1b3JrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q/l2QE3oVEP88zGMTPa/giphy.gif"
-       width="100"
+       width=200"
        alt="Animated Gif"/>
 </p>
 
@@ -25,13 +26,21 @@ Welcome to my GitHub profile! I'm Modestino Carbone.
 
 ---
 
-## Roadmap
+## 🗺️ Roadmap
 
-My present project and my future one will follow 3 direction:
-- Art : drummerize (a collection of functions for audio generation), processing_projects (a collection of artistic processing scripts)
-- Education : Led (A light version of the ed line editor), The_Glorious_7 (Seven C99 files to unlock the fundamentals of the language)
-- Satirical project : One_pixel_camera (Camera with only one pixel), Keyboard ruler (use ur keyboard as a ruler)
+My current and future projects follow three directions:
 
+### 🎨 Art
+- **drummerize** — a collection of functions for audio generation  
+- **processing_projects** — artistic Processing sketches
+
+### 📘 Education
+- **Led** — a light version of the *ed* line editor  
+- **The_Glorious_7** — seven C99 files that unlock language fundamentals
+
+### 😂 Satire
+- **One_pixel_camera** — a camera with only one pixel  
+- **Keyboard ruler** — measure things with your keyboard
 
 ---
 
