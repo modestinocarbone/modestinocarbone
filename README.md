@@ -6,13 +6,22 @@ Welcome to my GitHub profile! I'm Modestino Carbone.
 - Guitarist
 - Electronics enthusiast
 
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xmc3FlcHJ2eHZwNWdwZjNlZGU5anN2Zm9mcG8zNmlxOWJ1b3JrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q/l2QE3oVEP88zGMTPa/giphy.gif"
+       width="400"
+       alt="Animated Gif"/>
+</p>
+
 ---
 
 ## 🛠️ My Toolbox
 
-- **Languages**: Python, Processing, VHDL, C
-- **Tools**: Spyder, Modelsim, Processing, P5.js
-- **Interests**: Open Source, Fourier Analysis, Math, Music
+| **Languages** |  **Tools** | **Interests**| 
+|:------:|:------:|:------:|
+| Python | Spyder | Data Analysis |
+| Processing | P5.js | Art/Music |
+| VHDL | ghdl | Elctronics
+| C | vim | Math |
 
 ---
 
