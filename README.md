@@ -1,5 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:1e40af&height=180&section=header&text=Modestino%20Carbone%20👨‍💻&fontColor=ffffff&fontAlignY=35&fontSize=35&desc=Electronic%20Engineer%20%7C%20Amateur%20Coder%20%7C%20Guitarist&descAlignY=55&descAlign=50)
-
+<h1 align="center"><code>$ whoami → Modestino_Carbone</code></h1>
 
 Welcome to my GitHub profile! I'm Modestino Carbone.
 - Master's degree in Electronic Engineering
