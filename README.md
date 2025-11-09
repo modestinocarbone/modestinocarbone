@@ -35,7 +35,7 @@ My current and future projects follow three directions:
 
 ### 📘 Education
 - **Led** — a light version of the *ed* line editor  
-- **The_Glorious_7** — seven C99 files that unlock language fundamentals
+- **The_Glorious_7** — seven C99 files to explore coding fundamentals
 
 ### 😂 Satire
 - **One_pixel_camera** — a camera with only one pixel  
