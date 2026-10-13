@@ -1,10 +1,9 @@
 <h1 align="center"><code>$ whoami → Modestino_Carbone</code></h1>
 
 Welcome to my GitHub profile! I'm Modestino Carbone.
-- Master's degree in Electronic Engineering
+- PhD. Student in Electronic Engineering
 - Amateur coder
 - Guitarist
-- Electronics enthusiast
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xmc3FlcHJ2eHZwNWdwZjNlZGU5anN2Zm9mcG8zNmlxOWJ1b3JrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q/l2QE3oVEP88zGMTPa/giphy.gif"
